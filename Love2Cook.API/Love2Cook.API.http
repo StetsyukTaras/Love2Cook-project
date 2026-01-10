@@ -1,0 +1,6 @@
+@Love2Cook.API_HostAddress = http://localhost:5101
+
+GET {{Love2Cook.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
