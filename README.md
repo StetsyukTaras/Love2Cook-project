@@ -144,9 +144,7 @@ Stetsiuk Taras - https://www.linkedin.com/in/taras-stetsiuk-279504343/
 - ASP.NET Core Documentation
 - React Documentation
 - Material Design Guidelines
-```
-```
-   - Backend: ASP.NET Core 8.0 with SQL Server
-   - Frontend: React 18 + Vite
-   - Features: recipes, smart leftovers, admin panel, favorites, timer, ratings, nutrition calculator
-   - Security: Connection strings hidden, .gitignore configured
+- Backend: ASP.NET Core 8.0 with SQL Server
+- Frontend: React 18 + Vite
+- Features: recipes, smart leftovers, admin panel, favorites, timer, ratings, nutrition calculator
+- Security: Connection strings hidden, .gitignore configured
