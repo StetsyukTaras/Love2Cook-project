@@ -137,7 +137,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Your Name - Курсова робота
+Stetsiuk Taras - https://www.linkedin.com/in/taras-stetsiuk-279504343/
 
 ## 🙏 Acknowledgments
 
