@@ -145,24 +145,6 @@ Stetsiuk Taras - https://www.linkedin.com/in/taras-stetsiuk-279504343/
 - React Documentation
 - Material Design Guidelines
 ```
-
----
-
-## Крок 3: Commit та Push
-
-### У GitHub Desktop:
-
-1. Побачите всі нові файли зліва
-2. **Перевірте що НЕ вибрані:**
-   - ❌ `bin/` папки
-   - ❌ `obj/` папки  
-   - ❌ `node_modules/`
-   - ❌ `.vs/`
-   - ❌ `appsettings.Development.json` ⚠️
-
-3. **Summary:** `Initial commit - Love2Cook MVP with security`
-
-4. **Description:**
 ```
    - Backend: ASP.NET Core 8.0 with SQL Server
    - Frontend: React 18 + Vite
